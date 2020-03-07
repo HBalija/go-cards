@@ -20,3 +20,7 @@ Compile and run code:
 
     go build main.go deck.go
     ./main.go
+
+Run tests:
+
+    go test
